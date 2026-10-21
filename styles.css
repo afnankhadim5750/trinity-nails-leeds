@@ -158,6 +158,7 @@ a { color: inherit; }
 
 /* booking band */
 .book-band { background: var(--ivory-deep); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.book-band .lead { color: var(--charcoal-soft); }
 .book-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; }
 .info-rows { margin: 32px 0; display: grid; gap: 20px; }
 .info-row { display: flex; gap: 16px; align-items: flex-start; }
