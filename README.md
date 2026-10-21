@@ -1,6 +1,6 @@
 # Trinity Nails & Beauty
 
-Demo website concept for **Trinity Nails & Beauty** — Leeds, UK.
+Demo website concept for **Trinity Nails & Beauty** — Leeds.
 
 Live preview: https://trinity-nails-leeds-mockup.netlify.app
 
